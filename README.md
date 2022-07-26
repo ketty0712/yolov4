@@ -7,6 +7,12 @@ I recommend Anaconda route for people using a GPU as it configures CUDA toolkit 
 python -m pip install --upgrade pip
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
+## Downloading
+```
+cd ~
+git clone https://github.com/ketty0712/yolov4.git
+```
+
 ### Conda (Recommended)
 ```
 # For GPU
