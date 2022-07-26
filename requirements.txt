@@ -1,0 +1,8 @@
+opencv-python
+pillow
+docx
+numpy
+Pillow
+python-docx
+pyzbar
+qrcode
