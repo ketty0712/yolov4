@@ -1,0 +1,6 @@
+classes = 1
+train = darknet/data/deron_train.txt
+valid = darknet/data/deron_val.txt
+names = ./darknet/cfg/deron.names
+backup = /home/pjreddie/backup/
+
