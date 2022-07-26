@@ -1,0 +1,22 @@
+name: yolov4
+
+dependencies:
+  - python==3.9
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn
+  - cudatoolkit==10.1.243
+  - pip:
+    - opencv-python
+    - lxml
+    - tqdm
+    - absl-py
+    - easydict
+    - pillow
+    - docx
+    - numpy
+    - Pillow
+    - python-docx
+    - pyzbar
+    - qrcode
